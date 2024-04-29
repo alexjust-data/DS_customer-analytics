@@ -6,3 +6,4 @@
 * [Análisis de correspondencias múltiple]()
 * [Análisis de correspondencias simple]()
 
+* [Segmentación de clientes. Análisis de Conglomerados]()
